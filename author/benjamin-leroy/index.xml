@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin LeRoy* | Robin Dunn</title>
+    <link>/author/benjamin-leroy/</link>
+      <atom:link href="/author/benjamin-leroy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin LeRoy*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_2.png</url>
+      <title>Benjamin LeRoy*</title>
+      <link>/author/benjamin-leroy/</link>
+    </image>
+    
+    <item>
+      <title>A Flexible Pipeline for Prediction of Tropical Cyclone Paths</title>
+      <link>/publication/tcs/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tcs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

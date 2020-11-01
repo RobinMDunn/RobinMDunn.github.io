@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Robin Dunn</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Distribution-Free Prediction Sets with Random Effects</title>
+      <link>/publication/conformal/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 -0400</pubDate>
+      <guid>/publication/conformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Scoring for Time to End-stage Knee Osteoarthritis: Data from the Osteoarthritis Initiative</title>
+      <link>/publication/osteoarthritis/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/osteoarthritis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Flexible Pipeline for Prediction of Tropical Cyclone Paths</title>
+      <link>/publication/tcs/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tcs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
