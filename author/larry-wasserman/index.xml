@@ -5,12 +5,20 @@
     <link>/author/larry-wasserman/</link>
       <atom:link href="/author/larry-wasserman/index.xml" rel="self" type="application/rss+xml" />
     <description>Larry Wasserman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:00:00 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_2.png</url>
       <title>Larry Wasserman</title>
       <link>/author/larry-wasserman/</link>
     </image>
+    
+    <item>
+      <title>Gaussian Universal Likelihood Ratio Testing</title>
+      <link>/publication/gaussian_lrt/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 -0400</pubDate>
+      <guid>/publication/gaussian_lrt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distribution-Free Prediction Sets with Random Effects</title>
