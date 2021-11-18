@@ -5,12 +5,20 @@
     <link>/author/larry-wasserman/</link>
       <atom:link href="/author/larry-wasserman/index.xml" rel="self" type="application/rss+xml" />
     <description>Larry Wasserman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_2.png</url>
       <title>Larry Wasserman</title>
       <link>/author/larry-wasserman/</link>
     </image>
+    
+    <item>
+      <title>Universal Inference Meets Random Projections: A Scalable Test for Log-concavity</title>
+      <link>/publication/log_concave/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 -0500</pubDate>
+      <guid>/publication/log_concave/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gaussian Universal Likelihood Ratio Testing</title>

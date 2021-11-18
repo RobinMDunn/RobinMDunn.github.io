@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Principal Statistical Consultant">
+  <meta name="description" content="Shape-constrained density estimation poses a middle ground between fully nonparametric and fully parametric density estimation. Log-concavity is a common choice of shape constraint. Using universal inference, we develop the first test for log-concavity that is provably valid. Validity holds in finite samples.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/author/robin-dunn/">
+  <link rel="alternate" hreflang="en-us" href="/publication/log_concave/">
 
   
 
@@ -42,6 +42,9 @@
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -173,9 +176,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -212,14 +215,12 @@
   
 
   
-  <link rel="alternate" href="/author/robin-dunn/index.xml" type="application/rss+xml" title="Robin Dunn">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/author/robin-dunn/">
+  <link rel="canonical" href="/publication/log_concave/">
 
   
   
@@ -238,18 +239,61 @@
   <meta property="twitter:creator" content="@RobinMDunn">
   
   <meta property="og:site_name" content="Robin Dunn">
-  <meta property="og:url" content="/author/robin-dunn/">
-  <meta property="og:title" content="Robin Dunn | Robin Dunn">
-  <meta property="og:description" content="Principal Statistical Consultant"><meta property="og:image" content="/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="/publication/log_concave/">
+  <meta property="og:title" content="Universal Inference Meets Random Projections: A Scalable Test for Log-concavity | Robin Dunn">
+  <meta property="og:description" content="Shape-constrained density estimation poses a middle ground between fully nonparametric and fully parametric density estimation. Log-concavity is a common choice of shape constraint. Using universal inference, we develop the first test for log-concavity that is provably valid. Validity holds in finite samples."><meta property="og:image" content="/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-11-17T00:00:00-05:00">
+    
+      <meta property="article:published_time" content="2021-11-17T00:00:00-05:00">
+    
+    <meta property="article:modified_time" content="2021-11-17T00:00:00-05:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/log_concave/"
+  },
+  "headline": "Universal Inference Meets Random Projections: A Scalable Test for Log-concavity",
+  
+  "datePublished": "2021-11-17T00:00:00-05:00",
+  "dateModified": "2021-11-17T00:00:00-05:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Robin Dunn"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Robin Dunn",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Shape-constrained density estimation poses a middle ground between fully nonparametric and fully parametric density estimation. Log-concavity is a common choice of shape constraint. Using universal inference, we develop the first test for log-concavity that is provably valid. Validity holds in finite samples."
+}
+</script>
+
+  
 
   
 
@@ -257,10 +301,13 @@
   
 
 
+  
 
 
 
-  <title>Robin Dunn | Robin Dunn</title>
+
+
+  <title>Universal Inference Meets Random Projections: A Scalable Test for Log-concavity | Robin Dunn</title>
 
 </head>
 
@@ -497,52 +544,349 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1>Robin Dunn</h1>
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Universal Inference Meets Random Projections: A Scalable Test for Log-concavity</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span>Robin Dunn</span>, <span>Larry Wasserman</span>, <span>Aaditya Ramdas</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    November 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2111.09254" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/log_concave/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/RobinMDunn/Universal_Inference_LogConcave" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Shape constraints yield flexible middle grounds between fully nonparametric and fully parametric approaches to modeling distributions of data. The specific assumption of log-concavity is motivated by applications across economics, survival modeling, and reliability theory. However, there do not currently exist valid tests for whether the underlying density of given data is log-concave. The recent universal likelihood ratio test provides a valid test. The universal test relies on maximum likelihood estimation (MLE), and efficient methods already exist for finding the log-concave MLE. This yields the first test of log-concavity that is provably valid in finite samples in any dimension, for which we also establish asymptotic consistency results. Empirically, we find that the highest power is obtained by using random projections to convert the d-dimensional testing problem into many one-dimensional problems, leading to a simple procedure that is statistically and computationally efficient.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/log_concave/">Universal Inference Meets Random Projections: A Scalable Test for Log-concavity</a>
-        </li>
-        
-        <li>
-          <a href="/publication/gaussian_lrt/">Gaussian Universal Likelihood Ratio Testing</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conformal/">Distribution-Free Prediction Sets with Random Effects</a>
-        </li>
-        
-        <li>
-          <a href="/publication/osteoarthritis/">Risk Scoring for Time to End-stage Knee Osteoarthritis: Data from the Osteoarthritis Initiative</a>
-        </li>
-        
-        <li>
-          <a href="/publication/tcs/">A Flexible Pipeline for Prediction of Tropical Cyclone Paths</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">arXiv preprint</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/log_concave/&amp;text=Universal%20Inference%20Meets%20Random%20Projections:%20A%20Scalable%20Test%20for%20Log-concavity" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/log_concave/&amp;t=Universal%20Inference%20Meets%20Random%20Projections:%20A%20Scalable%20Test%20for%20Log-concavity" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Universal%20Inference%20Meets%20Random%20Projections:%20A%20Scalable%20Test%20for%20Log-concavity&amp;body=/publication/log_concave/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/log_concave/&amp;title=Universal%20Inference%20Meets%20Random%20Projections:%20A%20Scalable%20Test%20for%20Log-concavity" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Universal%20Inference%20Meets%20Random%20Projections:%20A%20Scalable%20Test%20for%20Log-concavity%20/publication/log_concave/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/log_concave/&amp;title=Universal%20Inference%20Meets%20Random%20Projections:%20A%20Scalable%20Test%20for%20Log-concavity" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
   </div>
-</section>
+</div>
 
       
 
