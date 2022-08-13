@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Gaussian Universal Likelihood Ratio Testing</title>
+      <link>/publication/gaussian_lrt/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 -0400</pubDate>
+      <guid>/publication/gaussian_lrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distribution-Free Prediction Sets for Two-Layer Hierarchical Models</title>
       <link>/publication/conformal/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 -0500</pubDate>
@@ -89,14 +97,6 @@
       <link>/publication/log_concave/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 -0500</pubDate>
       <guid>/publication/log_concave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaussian Universal Likelihood Ratio Testing</title>
-      <link>/publication/gaussian_lrt/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 -0400</pubDate>
-      <guid>/publication/gaussian_lrt/</guid>
       <description></description>
     </item>
     
