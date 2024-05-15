@@ -1,48 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robin Dunn</title>
+    <title>Robin Dunn* | Robin Dunn</title>
     <link>/author/robin-dunn/</link>
       <atom:link href="/author/robin-dunn/index.xml" rel="self" type="application/rss+xml" />
-    <description>Robin Dunn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <description>Robin Dunn*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_2.png</url>
-      <title>Robin Dunn</title>
+      <url>/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_3.png</url>
+      <title>Robin Dunn*</title>
       <link>/author/robin-dunn/</link>
     </image>
-    
-    <item>
-      <title>Gaussian Universal Likelihood Ratio Testing</title>
-      <link>/publication/gaussian_lrt/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/gaussian_lrt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Universal Inference Meets Random Projections: A Scalable Test for Log-concavity</title>
-      <link>/publication/log_concave/</link>
-      <pubDate>Sat, 29 Oct 2022 00:00:00 -0400</pubDate>
-      <guid>/publication/log_concave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distribution-Free Prediction Sets for Two-Layer Hierarchical Models</title>
-      <link>/publication/conformal/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 -0500</pubDate>
-      <guid>/publication/conformal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk Scoring for Time to End-stage Knee Osteoarthritis: Data from the Osteoarthritis Initiative</title>
-      <link>/publication/osteoarthritis/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/osteoarthritis/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A Flexible Pipeline for Prediction of Tropical Cyclone Paths</title>
