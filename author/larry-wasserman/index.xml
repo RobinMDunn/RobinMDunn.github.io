@@ -5,7 +5,7 @@
     <link>/author/larry-wasserman/</link>
       <atom:link href="/author/larry-wasserman/index.xml" rel="self" type="application/rss+xml" />
     <description>Larry Wasserman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue6b11dbf4f02a0caa3c6e5bac41b7e26_272745_512x512_fill_lanczos_center_3.png</url>
       <title>Larry Wasserman</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Gaussian Universal Likelihood Ratio Testing</title>
-      <link>/publication/gaussian_lrt/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/gaussian_lrt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Universal Inference Meets Random Projections: A Scalable Test for Log-concavity</title>
       <link>/publication/log_concave/</link>
-      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/publication/log_concave/</guid>
       <description></description>
     </item>
@@ -31,8 +23,16 @@
     <item>
       <title>Distribution-Free Prediction Sets for Two-Layer Hierarchical Models</title>
       <link>/publication/conformal/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>/publication/conformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Universal Likelihood Ratio Testing</title>
+      <link>/publication/gaussian_lrt/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/gaussian_lrt/</guid>
       <description></description>
     </item>
     
