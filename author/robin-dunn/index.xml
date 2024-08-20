@@ -22,3 +22,29 @@
     
   </channel>
 </rss>
+   <item>
+      <title>Distribution-Free Prediction Sets for Two-Layer Hierarchical Models</title>
+      <link>/publication/conformal/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/conformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Universal Likelihood Ratio Testing</title>
+      <link>/publication/gaussian_lrt/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/gaussian_lrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Scoring for Time to End-stage Knee Osteoarthritis: Data from the Osteoarthritis Initiative</title>
+      <link>/publication/osteoarthritis/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/osteoarthritis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
